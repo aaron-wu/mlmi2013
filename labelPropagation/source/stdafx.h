@@ -5,10 +5,26 @@
 
 #pragma once
 
+//#ifdef  _CH_
+//#pragma  package <opencv>
+//#endif
+
 //#include "targetver.h"
 
 #include <stdio.h>
 #include <tchar.h>
+
+
+//#ifndef  _EiC
+#include "cv.h"
+#include "highgui.h"
+#include <stdio.h>
+#include <ctype.h>
+#include <iostream>
+#include <list>
+#include <numeric>
+#include <algorithm>
+ #include <math.h>
 
 
 
