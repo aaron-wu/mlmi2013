@@ -4,7 +4,7 @@
 #include "stdafx.h"
 //#include <opencv2/opencv.hpp>
 #include <string>
-#include "hogMedicalImage.h"
+#include "Utilities.h"
 
 using namespace std;
 using namespace cv;
